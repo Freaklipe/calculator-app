@@ -11,4 +11,4 @@ Mejorar habilidad principalmente en JS y como colateral en html y css.
 No requiere.
 
 ## Visualización 
-[www.web-basic.com](https://freaklipe.github.io/Web-Basic/)
+[Calculator](https://freaklipe.github.io/calculator-app/)

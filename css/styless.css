@@ -15,6 +15,7 @@ body {
     width: 100%;
     height: 100%;
     padding: 2%, 0;
+    background-color: #b9b9b9;
 }
 
 h1 {
@@ -61,12 +62,14 @@ button {
 textarea {
     margin: 2% 3%;
     resize: none;
-    background: none;
+    /* background: none; */
     outline: none;
     border: none;
     height: 120px;
-    color: #fff;
+    color: #363636;
     font-size: 1.5rem;
+    text-align: center;
+    border-radius: 3%;
 }
 
 button.operator {
